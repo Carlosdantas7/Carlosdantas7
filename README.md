@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Carlosdantas7
-- 👀 I’m interested in programing 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on artificial inteligency projects 
-- 📫 How to reach me, throug my email dantasfarma@yahoo.com.br
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me
 
 <!---
 Carlosdantas7/Carlosdantas7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
